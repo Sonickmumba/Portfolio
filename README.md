@@ -2,7 +2,7 @@
 
 # My Professional Portfolio
 
-> This is my portfolio that i designe and built to showcase my work.The project also involves installation of linters and activating Github Actions.
+> This is my portfolio that i design and built to showcase my work.
 > Worked with github flow throughout the project.
 
  ## Built With
@@ -23,7 +23,7 @@
 - Installation of files.
 
 ### Setup
-- To clone the repository run `[https://github.com/NATASHA-ct/MY-PORTFOLIO.git]` in your terminal
+- To clone the repository run `[https://github.com/Sonickmumba/Portfolio.git]` in your terminal
 
 ### Install
 - Set up Github Actions
@@ -32,9 +32,9 @@
 
 👤 **Author**
 
-- GitHub: [@NATASHA-ct]((https://github.com/NATASHA-ct)
-- Twitter: [@NatashaChirombe]
-- LinkedIn: [Natasha Chirombe](linkedin.com/in/natasha-chirombe-1531aa17b)
+- GitHub: [Sonickmumba]((https://github.com/Sonickmumba)
+- Twitter: [@Sonick](https://twitter.com/MumbaSonick)
+- LinkedIn: [Sonick Mumba](https://www.linkedin.com/in/sonick-m-301557a2/)
 
 ## 🤝 Contributing
 
