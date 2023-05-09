@@ -36,9 +36,9 @@ const portfolioObjects = [
     tags: ["HTML", "CSS", "Es6", "API"],
     description:
       "Allows users to engage with TV show info via an external API.Users can like shows & leave comments.It uses an involvement API to save data",
-    liveUrl: "https://natasha-ct.github.io/Top-rated-tv-shows-Web-app/dist/",
+    liveUrl: "https://sonickmumba.github.io/Leaderboard/",
     sourceUrl: "https://github.com/NATASHA-ct/Top-rated-tv-shows-Web-app",
-    image: "./images/projects/tv.png",
+    image: "./images/projects/leader.png",
   },
 
   {
@@ -54,10 +54,10 @@ const portfolioObjects = [
 
   {
     projectTitle: "project3",
-    projectTitleDesktop: "Online Shop",
+    projectTitleDesktop: "Awesome Books app",
     tags: ["CSS", "HTML", "ES6", "React"],
     description:
-      "Web app for viewing & filtering products using external API, incl. list of products & detailed info pages. Users can filter & view metrics for specific criteria.",
+      "Awesome books is a simple website that displays a list of books and allows you to add and remove books from that list.",
     liveUrl: "https://sonickmumba.github.io/Awesome-Books-ES6/",
     sourceUrl: "https://github.com/Sonickmumba/Awesome-Books-ES6",
     image: "./images/projects/booksto.png",
