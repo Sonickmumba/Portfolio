@@ -64,13 +64,13 @@ const portfolioObjects = [
   },
   {
     projectTitle: "project4",
-    projectTitleDesktop: "Digital Library",
-    tags: ["HTML", "CSS", "JavaScript", "React"],
+    projectTitleDesktop: "Vespa Cars Rental",
+    tags: ["HTML", "CSS", "Ruby", "React"],
     description:
-      "Web app using React & Redux to view, add, & remove books, test using Jest. Offers simple way to manage book collection",
-    liveUrl: "https://deft-seahorse-76e953.netlify.app/",
-    sourceUrl: "https://github.com/NATASHA-ct/DigitalLibrary",
-    image: "./images/projects/lib.png",
+      "Vesper application for all lovers of cars. Let your car make money for you by listing it on our platform so others can view and rent.",
+    liveUrl: "https://vesper-4yj8.onrender.com/",
+    sourceUrl: "https://github.com/Sonickmumba/vesper-frontend",
+    image: "./images/projects/Scre.png",
   },
 
   {
@@ -79,19 +79,19 @@ const portfolioObjects = [
     tags: ["HTML", "CSS", "Es6", "React"],
     description:
       "Single Page App for math calculations & reading random math related quotes, offering quick access to simple tools and resources",
-    liveUrl: "https://phenomenal-rugelach-2147c0.netlify.app/",
-    sourceUrl: "https://github.com/NATASHA-ct/REACT-Math-Calculator",
+    liveUrl: "https://dancing-conkies-c08f95.netlify.app/",
+    sourceUrl: "https://github.com/Sonickmumba/math-magicians",
     image: "./images/projects/maths.png",
   },
   {
     projectTitle: "project6",
     projectTitleDesktop: "Business-Seminar-Website",
-    tags: ["HTML", "CSS", "Es6", "Webpack"],
+    tags: ["HTML", "CSS", "Es6", "JavaScript"],
     description:
-      "Business seminar website with info on dates, speakers, tickets, location. Goal is to help achieve productivity & balance in work & life.",
-    liveUrl: "https://natasha-ct.github.io/Business-Seminar-Website/",
-    sourceUrl: "https://github.com/NATASHA-ct/Business-Seminar-Website",
-    image: "./images/projects/business.png",
+      "Zambia Mathematics Association Conference website with info on dates, speakers, tickets, location. Impact of Mathematics in a society.",
+    liveUrl: "https://sonickmumba.github.io/Capstone-Project-1/",
+    sourceUrl: "https://github.com/Sonickmumba/Capstone-Project-1",
+    image: "./images/projects/zam.png",
   },
 ];
 
