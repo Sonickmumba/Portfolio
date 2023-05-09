@@ -245,12 +245,35 @@ background-image: linear-gradient( -225deg, #cf3e95 0%, #103a7a 29%, #4019cc 67%
    text-align: center;
 }
 
+#about-me {
+  width: 78%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+/* added minwwww */
+#about {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.my-photo-ni {
+  width: 140px;
+  height: 250px;
+  margin-right: 250px;
+  
+}
+
 .portrate-image {
   width: 100%;
   height: 100%;
   border-radius: 10px solid #fff;
 }
-
+/* end added mjnne */
 .intro-exp {
   font-family: "Inter", sans-serif;
   font-style: oblique;
@@ -984,43 +1007,6 @@ button.button:disabled {
     color: #9490ff;
     padding-bottom: 10px;
   }
-
-  /* #about-me {
-    width: 78%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 0 auto;
-    justify-content: center;
-  }
-  
-  #about {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-  }
-  
-  .my-photo-ni {
-    width: 140px;
-    height: 250px;
-    margin-right: 250px;
-    
-  } */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
   .my-skills {
     grid-template-columns: 1fr 1fr 1fr;
