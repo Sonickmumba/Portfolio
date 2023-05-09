@@ -59,7 +59,7 @@ const portfolioObjects = [
     description:
       "Web app for viewing & filtering products using external API, incl. list of products & detailed info pages. Users can filter & view metrics for specific criteria.",
     liveUrl: "https://sonickmumba.github.io/Awesome-Books-ES6/",
-    sourceUrl: "https://github.com/NATASHA-ct/onlineshop",
+    sourceUrl: "https://github.com/Sonickmumba/Awesome-Books-ES6",
     image: "./images/projects/booksto.png",
   },
   {
