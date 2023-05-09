@@ -13,7 +13,7 @@
 
 ## Live Demo (available)
 
-[Live Demo Link](https://natashatatendachirombe.netlify.app/)
+[Live Demo Link](https://sonickmumba.github.io/Portfolio/)
 
 
 ### Prerequisites
