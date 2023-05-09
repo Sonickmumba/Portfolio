@@ -37,7 +37,7 @@ const portfolioObjects = [
     description:
       "Allows users to engage with TV show info via an external API.Users can like shows & leave comments.It uses an involvement API to save data",
     liveUrl: "https://sonickmumba.github.io/Leaderboard/",
-    sourceUrl: "https://github.com/NATASHA-ct/Top-rated-tv-shows-Web-app",
+    sourceUrl: "https://github.com/Sonickmumba/Leaderboard",
     image: "./images/projects/leader.png",
   },
 
