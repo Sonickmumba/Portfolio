@@ -58,9 +58,9 @@ const portfolioObjects = [
     tags: ["CSS", "HTML", "ES6", "React"],
     description:
       "Web app for viewing & filtering products using external API, incl. list of products & detailed info pages. Users can filter & view metrics for specific criteria.",
-    liveUrl: "https://prismatic-banoffee-c996a7.netlify.app/",
+    liveUrl: "https://sonickmumba.github.io/Awesome-Books-ES6/",
     sourceUrl: "https://github.com/NATASHA-ct/onlineshop",
-    image: "./images/projects/onlineshop.png",
+    image: "./images/projects/booksto.png",
   },
   {
     projectTitle: "project4",
@@ -85,7 +85,7 @@ const portfolioObjects = [
   },
   {
     projectTitle: "project6",
-    projectTitleDesktop: "Business-Seminar-Website",
+    projectTitleDesktop: "ZAMSA-Seminar-Website",
     tags: ["HTML", "CSS", "Es6", "JavaScript"],
     description:
       "Zambia Mathematics Association Conference website with info on dates, speakers, tickets, location. Impact of Mathematics in a society.",
