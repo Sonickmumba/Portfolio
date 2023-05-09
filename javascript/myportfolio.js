@@ -32,7 +32,7 @@ const allprojects = document.querySelector(".all-projects");
 const portfolioObjects = [
   {
     projectTitle: "project1",
-    projectTitleDesktop: "Top-rated-tv-shows",
+    projectTitleDesktop: "LeaderBoard",
     tags: ["HTML", "Webpack", "Es6", "API"],
     description:
       // "Allows users to engage with TV show info via an external API.Users can like shows & leave comments.It uses an involvement API to save data",
