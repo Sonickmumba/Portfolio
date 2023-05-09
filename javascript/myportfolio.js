@@ -47,8 +47,8 @@ const portfolioObjects = [
     tags: ["Html", "CSS", "JavaScript", "Linter"],
     description:
       "A webapp for To-Do tasks built using webpack with functionality to add, remove, mark items as complete, and remove all completed items at once.",
-    liveUrl: "https://dulcet-churros-bc7c19.netlify.app/",
-    sourceUrl: "https://github.com/NATASHA-ct/Daily-planner",
+    liveUrl: "https://sonickmumba.github.io/To-do-list/dist/",
+    sourceUrl: "https://github.com/Sonickmumba/To-do-list",
     image: "./images/projects/todo .png",
   },
 
