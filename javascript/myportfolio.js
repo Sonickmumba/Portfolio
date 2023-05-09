@@ -33,9 +33,10 @@ const portfolioObjects = [
   {
     projectTitle: "project1",
     projectTitleDesktop: "Top-rated-tv-shows",
-    tags: ["HTML", "CSS", "Es6", "API"],
+    tags: ["HTML", "Webpack", "Es6", "API"],
     description:
-      "Allows users to engage with TV show info via an external API.Users can like shows & leave comments.It uses an involvement API to save data",
+      // "Allows users to engage with TV show info via an external API.Users can like shows & leave comments.It uses an involvement API to save data",
+      "The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.",
     liveUrl: "https://sonickmumba.github.io/Leaderboard/",
     sourceUrl: "https://github.com/Sonickmumba/Leaderboard",
     image: "./images/projects/leader.png",
