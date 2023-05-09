@@ -32,7 +32,7 @@
 
 👤 **Author**
 
-- GitHub: [Sonickmumba]((https://github.com/Sonickmumba)
+- GitHub: [Sonickmumba](https://github.com/Sonickmumba)
 - Twitter: [@Sonick](https://twitter.com/MumbaSonick)
 - LinkedIn: [Sonick Mumba](https://www.linkedin.com/in/sonick-m-301557a2/)
 
