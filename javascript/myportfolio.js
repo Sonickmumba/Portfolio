@@ -71,7 +71,7 @@ const portfolioObjects = [
       "Vesper application for all lovers of cars. Let your car make money for you by listing it on our platform so others can view and rent.",
     liveUrl: "https://vesper-4yj8.onrender.com/",
     sourceUrl: "https://github.com/Sonickmumba/vesper-frontend",
-    image: "./images/projects/Scre.png",
+    image: "./images/projects/do.jpg",
   },
 
   {
@@ -92,7 +92,7 @@ const portfolioObjects = [
       "Zambia Mathematics Association Conference website with info on dates, speakers, tickets, location. Impact of Mathematics in a society.",
     liveUrl: "https://sonickmumba.github.io/Capstone-Project-1/",
     sourceUrl: "https://github.com/Sonickmumba/Capstone-Project-1",
-    image: "./images/projects/zam.png",
+    image: "./images/projects/creat.png",
   },
 ];
 
