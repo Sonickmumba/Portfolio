@@ -39,12 +39,12 @@ const portfolioObjects = [
       "The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.",
     liveUrl: "https://sonickmumba.github.io/Leaderboard/",
     sourceUrl: "https://github.com/Sonickmumba/Leaderboard",
-    image: "./images/projects/cov.png",
+    image: "./images/projects/lide.png",
   },
 
   {
     projectTitle: "project2",
-    projectTitleDesktop: "Daily Planner",
+    projectTitleDesktop: "Meal App",
     tags: ["Html", "CSS", "JavaScript", "Linter"],
     description:
       "Web application based on an external API. We selected an API that provides data about Meals. One is able to like and comment on a meal.",
@@ -61,7 +61,7 @@ const portfolioObjects = [
       "Awesome books is a simple website that displays a list of books and allows you to add and remove books from that list.",
     liveUrl: "https://sonickmumba.github.io/Awesome-Books-ES6/",
     sourceUrl: "https://github.com/Sonickmumba/Awesome-Books-ES6",
-    image: "./images/projects/booksto.png",
+    image: "./images/projects/awes.png",
   },
   {
     projectTitle: "project4",
@@ -82,7 +82,7 @@ const portfolioObjects = [
       "Single Page App for math calculations & reading random math related quotes, offering quick access to simple tools and resources",
     liveUrl: "https://dancing-conkies-c08f95.netlify.app/",
     sourceUrl: "https://github.com/Sonickmumba/math-magicians",
-    image: "./images/projects/maths.png",
+    image: "./images/projects/math.png",
   },
   {
     projectTitle: "project6",
