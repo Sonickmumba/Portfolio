@@ -131,8 +131,8 @@ const modal = () => {
                         </li>  
                     </ul>
                     <div class="proj-btns">
-                      <button type="button" class="button "><a href="${portfolioObjects[projectsIndex].liveUrl}">Live Preview</a></button>
-                      <button type="button" class="button SeeSource"><a href="${portfolioObjects[projectsIndex].sourceUrl}">Source Code</a></button>
+                      <button type="button" class="button "><a href="${portfolioObjects[projectsIndex].liveUrl}" target="_blank" rel="noopener noreferrer">Live Preview</a></button>
+                      <button type="button" class="button SeeSource"><a href="${portfolioObjects[projectsIndex].sourceUrl}" target="_blank" rel="noopener noreferrer">Source Code</a></button>
                     </div>
              
                 
