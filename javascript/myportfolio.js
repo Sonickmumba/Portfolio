@@ -39,7 +39,7 @@ const portfolioObjects = [
       "The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.",
     liveUrl: "https://sonickmumba.github.io/Leaderboard/",
     sourceUrl: "https://github.com/Sonickmumba/Leaderboard",
-    image: "./images/projects/leader.png",
+    image: "./images/projects/cov.png",
   },
 
   {
@@ -47,10 +47,10 @@ const portfolioObjects = [
     projectTitleDesktop: "Daily Planner",
     tags: ["Html", "CSS", "JavaScript", "Linter"],
     description:
-      "A webapp for To-Do tasks built using webpack with functionality to add, remove, mark items as complete, and remove all completed items at once.",
-    liveUrl: "https://sonickmumba.github.io/To-do-list/dist/",
-    sourceUrl: "https://github.com/Sonickmumba/To-do-list",
-    image: "./images/projects/todo .png",
+      "Web application based on an external API. We selected an API that provides data about Meals. One is able to like and comment on a meal.",
+    liveUrl: "https://megha-n-bodke.github.io/CapstoneProject2/dist/",
+    sourceUrl: "https://github.com/Sonickmumba/CapstoneProject2",
+    image: "./images/projects/dtk2.png",
   },
 
   {
@@ -92,7 +92,7 @@ const portfolioObjects = [
       "Zambia Mathematics Association Conference website with info on dates, speakers, tickets, location. Impact of Mathematics in a society.",
     liveUrl: "https://sonickmumba.github.io/Capstone-Project-1/",
     sourceUrl: "https://github.com/Sonickmumba/Capstone-Project-1",
-    image: "./images/projects/creat.png",
+    image: "./images/projects/mobile-version.png",
   },
 ];
 
