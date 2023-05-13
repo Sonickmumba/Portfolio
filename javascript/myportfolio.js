@@ -130,8 +130,8 @@ const modal = () => {
                         </li>  
                     </ul>
                     <div class="proj-btns">
-                      <button type="button" class="button "><a href="${portfolioObjects[projectsIndex].liveUrl}">Live Preview</a></button>
-                      <button type="button" class="button SeeSource"><a href="${portfolioObjects[projectsIndex].sourceUrl}">Source Code</a></button>
+                      <button type="button" class="button "><a href="${portfolioObjects[projectsIndex].liveUrl}" target="_blank">Live Preview</a></button>
+                      <button type="button" class="button SeeSource"><a href="${portfolioObjects[projectsIndex].sourceUrl}" target="_blank">Source Code</a></button>
                     </div>
              
                 
@@ -189,11 +189,11 @@ open.forEach((btn, index) => {
                 <div class="modal-buttons">
  
                 <button type="button" class="button ">
-                  <a href="${portfolioObjects[index].liveUrl}">See Live</a>
+                  <a href="${portfolioObjects[index].liveUrl}" target="_blank">See Live</a>
                 </button>
                 
                 <button type="button" class="button SeeSource">
-                   <a href="${portfolioObjects[index].sourceUrl}">See Source</a>
+                   <a href="${portfolioObjects[index].sourceUrl}" target="_blank">See Source</a>
                 </button>
                 </div>
               </div>
