@@ -39,7 +39,7 @@ const portfolioObjects = [
       "The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.",
     liveUrl: "https://sonickmumba.github.io/Leaderboard/",
     sourceUrl: "https://github.com/Sonickmumba/Leaderboard",
-    image: "./images/projects/lide.png",
+    image: "./images/projects/dotg.jpg",
   },
 
   {
