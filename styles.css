@@ -391,9 +391,6 @@ background-image: linear-gradient( -225deg, #cf3e95 0%, #103a7a 29%, #4019cc 67%
 }
 
 .social li a {
-  /* box-shadow: 0 0 10px 5px #3c9ec1;
-  background-color: #4b565b; */
-  /* border-radius: 2px; */
   margin: 0 5px;
   animation: shadow 3s linear infinite;
 }
