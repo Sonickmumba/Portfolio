@@ -1,6 +1,6 @@
 # My Professional Portfolio
 
-> This is my portfolio that i have designed and built to showcase my work.
+> This is my portfolio that I have designed and built to showcase my projects and skills.
 > Worked with github flow throughout the project.
 
  ## Built With
